@@ -1,0 +1,22 @@
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\CircuitoResistencias_WF\bin\Debug\CircuitoResistencias_WF.exe.config
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\CircuitoResistencias_WF\bin\Debug\CircuitoResistencias_WF.exe
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\CircuitoResistencias_WF\bin\Debug\CircuitoResistencias_WF.pdb
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\CircuitoResistencias_WF\obj\Debug\CircuitoResistencias_WF.csproj.AssemblyReference.cache
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\CircuitoResistencias_WF\obj\Debug\CircuitoResistencias_WF.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\CircuitoResistencias_WF\obj\Debug\CircuitoResistencias_WF.Form1.resources
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\CircuitoResistencias_WF\obj\Debug\CircuitoResistencias_WF.Properties.Resources.resources
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\CircuitoResistencias_WF\obj\Debug\CircuitoResistencias_WF.csproj.GenerateResource.cache
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\CircuitoResistencias_WF\obj\Debug\CircuitoResistencias_WF.csproj.CoreCompileInputs.cache
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\CircuitoResistencias_WF\obj\Debug\CircuitoResistencias_WF.exe
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\CircuitoResistencias_WF\obj\Debug\CircuitoResistencias_WF.pdb
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica26\CircuitoResistencias_WF\bin\Debug\CircuitoResistencias_WF.exe.config
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica26\CircuitoResistencias_WF\bin\Debug\CircuitoResistencias_WF.exe
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica26\CircuitoResistencias_WF\bin\Debug\CircuitoResistencias_WF.pdb
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica26\CircuitoResistencias_WF\obj\Debug\CircuitoResistencias_WF.csproj.AssemblyReference.cache
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica26\CircuitoResistencias_WF\obj\Debug\CircuitoResistencias_WF.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica26\CircuitoResistencias_WF\obj\Debug\CircuitoResistencias_WF.Form1.resources
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica26\CircuitoResistencias_WF\obj\Debug\CircuitoResistencias_WF.Properties.Resources.resources
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica26\CircuitoResistencias_WF\obj\Debug\CircuitoResistencias_WF.csproj.GenerateResource.cache
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica26\CircuitoResistencias_WF\obj\Debug\CircuitoResistencias_WF.csproj.CoreCompileInputs.cache
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica26\CircuitoResistencias_WF\obj\Debug\CircuitoResistencias_WF.exe
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica26\CircuitoResistencias_WF\obj\Debug\CircuitoResistencias_WF.pdb

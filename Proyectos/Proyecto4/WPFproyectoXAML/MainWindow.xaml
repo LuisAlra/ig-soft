@@ -1,0 +1,24 @@
+﻿<Window x:Class="WPFproyectoXAML.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFproyectoXAML"
+        mc:Ignorable="d"
+        Title="Proyecto" Height="450" Width="800">
+    <Canvas>
+        <GroupBox x:Name="GB1" Header="Entrada" Width="240" Height="220" Canvas.Left="20" Canvas.Top="80">
+            <TextBox Text="0" Width="110" Height="30" Margin="55,0,55,40"/>
+        </GroupBox>
+        <GroupBox x:Name="GB2" Header="Proceso" Width="240" Height="220" Canvas.Left="275" Canvas.Top="80">
+            <Button x:Name="Button1" Content="Proceso" FontSize="20" Width="100" Height="40" Margin="55,0,55,40" Click="Button1_Click"/>
+        </GroupBox>
+        <GroupBox x:Name="GB3" Header="Salida" Width="240" Height="220" Canvas.Left="530" Canvas.Top="80">
+            <ListBox x:Name="LB1" Width="180" Height="140" Margin="20,0,20,5"/>
+        </GroupBox>
+
+
+        <Button x:Name="BtFirma" Content="Firma" FontSize="20" Canvas.Left="720" Canvas.Top="370" Click="BtFirma_Click"/>
+        <Label FontSize="20" Content="Proyecto: IGU de la plantilla Entrada -> Proceso -> Salida en XAML" Canvas.Left="90" Canvas.Top="15"/>
+    </Canvas>
+</Window>

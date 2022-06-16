@@ -1,0 +1,45 @@
+﻿<Page x:Class="LanzadorGeneral.Practicas"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:LanzadorGeneral"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Practicas">
+
+    <Grid Margin="0,-1,0,1">
+        <Button Content="Práctica 1" HorizontalAlignment="Left" Margin="10,31,0,0" VerticalAlignment="Top" FontSize="30" Click="Button_Click"/>
+        <Button Content="Práctica 2" HorizontalAlignment="Left" Margin="10,80,0,0" VerticalAlignment="Top" FontSize="30" Click="Button_Click_1"/>
+        <Button Content="Práctica 3" HorizontalAlignment="Left" Margin="10,131,0,0" VerticalAlignment="Top" FontSize="30" Click="Button_Click_2"/>
+        <Button Content="Práctica 4" HorizontalAlignment="Left" Margin="10,180,0,0" VerticalAlignment="Top" FontSize="30" Click="Button_Click_3"/>
+        <Button Content="Práctica 5" HorizontalAlignment="Left" Margin="10,229,0,0" VerticalAlignment="Top" FontSize="30" Click="Button_Click_4"/>
+        <Button Content="Práctica 6" HorizontalAlignment="Left" Margin="10,278,0,0" VerticalAlignment="Top" FontSize="30" Click="Button_Click_5"/>
+        <Button Content="Práctica 7" HorizontalAlignment="Left" Margin="10,329,0,0" VerticalAlignment="Top" FontSize="30" Click="Button_Click_6"/>
+        <Button Content="Práctica 8" HorizontalAlignment="Left" Margin="10,378,0,0" VerticalAlignment="Top" FontSize="30" Click="Button_Click_7"/>
+        <Button Content="Práctica 9" HorizontalAlignment="Left" Margin="206,31,0,0" VerticalAlignment="Top" FontSize="30" Width="147" Click="Button_Click_8"/>
+        <Button Content="Práctica 10" HorizontalAlignment="Left" Margin="206,80,0,0" VerticalAlignment="Top" FontSize="30" Click="Button_Click_9"/>
+        <Button Content="Práctica 11" HorizontalAlignment="Left" Margin="206,131,0,0" VerticalAlignment="Top" FontSize="30" Click="Button_Click_10"/>
+        <Button Content="Práctica 12" HorizontalAlignment="Left" Margin="206,180,0,0" VerticalAlignment="Top" FontSize="30" Click="Button_Click_11"/>
+        <Button Content="Práctica 13" HorizontalAlignment="Left" Margin="206,229,0,0" VerticalAlignment="Top" FontSize="30" Click="Button_Click_12"/>
+        <Button Content="Práctica 14" HorizontalAlignment="Left" Margin="206,278,0,0" VerticalAlignment="Top" FontSize="30" Click="Button_Click_13"/>
+        <Button Content="Práctica 15" HorizontalAlignment="Left" Margin="206,329,0,0" VerticalAlignment="Top" FontSize="30" Click="Button_Click_14"/>
+        <Button Content="Práctica 16" HorizontalAlignment="Left" Margin="206,378,0,0" VerticalAlignment="Top" FontSize="30" Click="Button_Click_15"/>
+        <Button Content="Práctica 17" HorizontalAlignment="Left" Margin="412,31,0,0" VerticalAlignment="Top" FontSize="30" Click="Button_Click_16"/>
+        <Button Content="Práctica 18" HorizontalAlignment="Left" Margin="412,80,0,0" VerticalAlignment="Top" FontSize="30" Click="Button_Click_17"/>
+        <Button Content="Práctica 19" HorizontalAlignment="Left" Margin="412,131,0,0" VerticalAlignment="Top" FontSize="30" Click="Button_Click_18"/>
+        <Button Content="Práctica 20" HorizontalAlignment="Left" Margin="412,180,0,0" VerticalAlignment="Top" FontSize="30" Click="Button_Click_19"/>
+        <Button Content="Práctica 21" HorizontalAlignment="Left" Margin="412,229,0,0" VerticalAlignment="Top" FontSize="30" Click="Button_Click_20"/>
+        <Button Content="Práctica 22" HorizontalAlignment="Left" Margin="412,278,0,0" VerticalAlignment="Top" FontSize="30" Click="Button_Click_21"/>
+        <Button Content="Práctica 23" HorizontalAlignment="Left" Margin="412,329,0,0" VerticalAlignment="Top" FontSize="30" Click="Button_Click_22"/>
+        <Button Content="Práctica 24" HorizontalAlignment="Left" Margin="412,378,0,0" VerticalAlignment="Top" FontSize="30" Click="Button_Click_23"/>
+        <Button Content="Práctica 25" HorizontalAlignment="Left" Margin="615,31,0,0" VerticalAlignment="Top" FontSize="30" Click="Button_Click_24"/>
+        <Button Content="Práctica 26" HorizontalAlignment="Left" Margin="615,80,0,0" VerticalAlignment="Top" FontSize="30" Click="Button_Click_25"/>
+        <Button Content="Práctica 27" HorizontalAlignment="Left" Margin="615,131,0,0" VerticalAlignment="Top" FontSize="30" Click="Button_Click_26"/>
+        <Button Content="Práctica 28" HorizontalAlignment="Left" Margin="615,181,0,0" VerticalAlignment="Top" FontSize="30" Click="Button_Click_27"/>
+        <Button Content="Práctica 29" HorizontalAlignment="Left" Margin="615,229,0,0" VerticalAlignment="Top" FontSize="30" Click="Button_Click_28"/>
+        <Button Content="Práctica 30" HorizontalAlignment="Left" Margin="615,278,0,0" VerticalAlignment="Top" FontSize="30" Click="Button_Click_29"/>
+        <Button Content="Práctica 31" HorizontalAlignment="Left" Margin="615,329,0,0" VerticalAlignment="Top" FontSize="30" Click="Button_Click_30"/>
+
+    </Grid>
+</Page>

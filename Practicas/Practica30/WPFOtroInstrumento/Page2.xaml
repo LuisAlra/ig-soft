@@ -1,0 +1,24 @@
+﻿<Page x:Class="WPFOtroInstrumento.Page2"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WPFOtroInstrumento"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Page2">
+
+    <Grid>
+        <Ellipse HorizontalAlignment="Left" Height="268" Margin="29,99,0,0" Stroke="Black" VerticalAlignment="Top" Width="256" Fill="#FFA54914"/>
+        <Rectangle HorizontalAlignment="Left" Height="22" Margin="66,384,0,0" Stroke="Black" VerticalAlignment="Top" Width="182" Fill="#FFE6A83A"/>
+        <Button x:Name="bt_do" Content="Button" HorizontalAlignment="Left" Margin="84,8,0,0" VerticalAlignment="Top" Height="387" Width="8" Background="White" Click="bt_do_Click"/>
+        <Button x:Name="bt_re" Content="Button" HorizontalAlignment="Left" Margin="105,8,0,0" VerticalAlignment="Top" Height="387" Width="8" Background="White" Click="bt_re_Click"/>
+        <Button x:Name="bt_mi" Content="Button" HorizontalAlignment="Left" Margin="128,8,0,0" VerticalAlignment="Top" Height="387" Width="8" Background="White" Click="bt_mi_Click"/>
+        <Button x:Name="bt_fa" Content="Button" HorizontalAlignment="Left" Margin="151,8,0,0" VerticalAlignment="Top" Height="387" Width="8" Background="White" Click="bt_fa_Click"/>
+        <Button x:Name="bt_sol" Content="Button" HorizontalAlignment="Left" Margin="172,8,0,0" VerticalAlignment="Top" Height="387" Width="8" Background="White" Click="bt_sol_Click"/>
+        <Button x:Name="bt_la" Content="Button" HorizontalAlignment="Left" Margin="193,8,0,0" VerticalAlignment="Top" Height="387" Width="8" Background="White" Click="bt_la_Click"/>
+        <Button x:Name="bt_si" Content="Button" HorizontalAlignment="Left" Margin="213,10,0,0" VerticalAlignment="Top" Height="387" Width="8" Background="White" Click="bt_si_Click"/>
+        <ListBox x:Name="lB2" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="315,51,10,44"/>
+
+    </Grid>
+</Page>

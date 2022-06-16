@@ -1,0 +1,21 @@
+﻿<Window x:Class="ExamenCalcuNL15.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ExamenCalcuNL15"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="840" Width="1500">
+    <Grid>
+        <Frame x:Name="Frame1" Content="" Margin="190,63,10,10"/>
+        <Button x:Name="BtCalcuBasica" Content="Calculadora Científica" HorizontalAlignment="Left" Margin="24,268,0,0" VerticalAlignment="Top" Height="55" Width="140" Click="BtCalcuBasica_Click"/>
+        <Button x:Name="BtConversiones" Content="Conversiones" HorizontalAlignment="Left" Margin="24,355,0,0" VerticalAlignment="Top" Height="55" Width="140" Click="BtConversiones_Click"/>
+        <Button x:Name="BtMatrices" Content="Operaciones con matrices" HorizontalAlignment="Left" Margin="24,441,0,0" VerticalAlignment="Top" Height="55" Width="140" Click="BtMatrices_Click"/>
+        <Button x:Name="BtGraficador" Content="Graficador" HorizontalAlignment="Left" Margin="24,529,0,0" VerticalAlignment="Top" Height="55" Width="140" Click="BtGraficador_Click"/>
+        <Button x:Name="BtTeoria" Content="Teoria y Ejemplos" HorizontalAlignment="Left" Margin="24,184,0,0" VerticalAlignment="Top" Height="55" Width="140" Click="BtTeoria_Click"/>
+        <Label Content="CALCULADORA CIENTÍFICA INGENIERIL" HorizontalAlignment="Left" Margin="333,-2,0,0" VerticalAlignment="Top" Height="53" Width="783" FontSize="36" FontFamily="Century"/>
+        <Label Content="Contenido" HorizontalAlignment="Left" Margin="10,116,0,0" VerticalAlignment="Top" FontSize="30" FontFamily="Lucida Fax"/>
+        <Button x:Name="BtFirma" Content="Firma" HorizontalAlignment="Left" Margin="24,740,0,0" VerticalAlignment="Top" Height="55" Width="84" Click="BtFirma_Click" FontSize="16"/>
+        <Button x:Name="BtCiclo" Content="Ciclo de vida de software" HorizontalAlignment="Left" Margin="10,640,0,0" VerticalAlignment="Top" Height="55" Width="167" Click="BtCiclo_Click" FontSize="14"/>
+    </Grid>
+</Window>

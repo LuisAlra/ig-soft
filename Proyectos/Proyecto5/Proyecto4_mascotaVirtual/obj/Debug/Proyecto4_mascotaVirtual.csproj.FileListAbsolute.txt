@@ -1,0 +1,26 @@
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\Proyecto4_mascotaVirtual\bin\Debug\Proyecto4_mascotaVirtual.exe.config
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\Proyecto4_mascotaVirtual\bin\Debug\Proyecto4_mascotaVirtual.exe
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\Proyecto4_mascotaVirtual\bin\Debug\Proyecto4_mascotaVirtual.pdb
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\Proyecto4_mascotaVirtual\obj\Debug\Proyecto4_mascotaVirtual.csproj.AssemblyReference.cache
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\Proyecto4_mascotaVirtual\obj\Debug\Proyecto4_mascotaVirtual.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\Proyecto4_mascotaVirtual\obj\Debug\Proyecto4_mascotaVirtual.Form1.resources
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\Proyecto4_mascotaVirtual\obj\Debug\Proyecto4_mascotaVirtual.Properties.Resources.resources
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\Proyecto4_mascotaVirtual\obj\Debug\Proyecto4_mascotaVirtual.csproj.GenerateResource.cache
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\Proyecto4_mascotaVirtual\obj\Debug\Proyecto4_mascotaVirtual.csproj.CoreCompileInputs.cache
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\Proyecto4_mascotaVirtual\obj\Debug\Proyecto4_mascotaVirtual.exe
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\Proyecto4_mascotaVirtual\obj\Debug\Proyecto4_mascotaVirtual.pdb
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\Proyecto4_mascotaVirtual\bin\Debug\info.lundin.math.dll
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\Proyecto4_mascotaVirtual\obj\Debug\Proyecto4_mascotaVirtual.csproj.CopyComplete
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Proyectos\Proyecto4\Proyecto4_mascotaVirtual\bin\Debug\Proyecto4_mascotaVirtual.exe.config
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Proyectos\Proyecto4\Proyecto4_mascotaVirtual\bin\Debug\Proyecto4_mascotaVirtual.exe
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Proyectos\Proyecto4\Proyecto4_mascotaVirtual\bin\Debug\Proyecto4_mascotaVirtual.pdb
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Proyectos\Proyecto4\Proyecto4_mascotaVirtual\bin\Debug\info.lundin.math.dll
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Proyectos\Proyecto4\Proyecto4_mascotaVirtual\obj\Debug\Proyecto4_mascotaVirtual.csproj.AssemblyReference.cache
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Proyectos\Proyecto4\Proyecto4_mascotaVirtual\obj\Debug\Proyecto4_mascotaVirtual.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Proyectos\Proyecto4\Proyecto4_mascotaVirtual\obj\Debug\Proyecto4_mascotaVirtual.Form1.resources
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Proyectos\Proyecto4\Proyecto4_mascotaVirtual\obj\Debug\Proyecto4_mascotaVirtual.Properties.Resources.resources
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Proyectos\Proyecto4\Proyecto4_mascotaVirtual\obj\Debug\Proyecto4_mascotaVirtual.csproj.GenerateResource.cache
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Proyectos\Proyecto4\Proyecto4_mascotaVirtual\obj\Debug\Proyecto4_mascotaVirtual.csproj.CoreCompileInputs.cache
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Proyectos\Proyecto4\Proyecto4_mascotaVirtual\obj\Debug\Proyecto4_mascotaVirtual.csproj.CopyComplete
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Proyectos\Proyecto4\Proyecto4_mascotaVirtual\obj\Debug\Proyecto4_mascotaVirtual.exe
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Proyectos\Proyecto4\Proyecto4_mascotaVirtual\obj\Debug\Proyecto4_mascotaVirtual.pdb

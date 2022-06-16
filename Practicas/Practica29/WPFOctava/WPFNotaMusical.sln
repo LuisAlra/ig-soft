@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFNotaMusical", "WPFNotaMusical.csproj", "{B0410FB2-824F-495D-86FC-1865F1F86069}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0410FB2-824F-495D-86FC-1865F1F86069}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0410FB2-824F-495D-86FC-1865F1F86069}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0410FB2-824F-495D-86FC-1865F1F86069}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0410FB2-824F-495D-86FC-1865F1F86069}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85812AD3-C6C6-4298-AA9D-EFC6418BA882}
+	EndGlobalSection
+EndGlobal

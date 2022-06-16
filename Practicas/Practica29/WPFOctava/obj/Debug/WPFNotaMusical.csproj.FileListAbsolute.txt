@@ -1,0 +1,48 @@
+C:\Users\computacion\Documents\PracticaWPF080422\WPFNotaMusical\bin\Debug\WPFNotaMusical.exe.config
+C:\Users\computacion\Documents\PracticaWPF080422\WPFNotaMusical\bin\Debug\WPFNotaMusical.exe
+C:\Users\computacion\Documents\PracticaWPF080422\WPFNotaMusical\bin\Debug\WPFNotaMusical.pdb
+C:\Users\computacion\Documents\PracticaWPF080422\WPFNotaMusical\obj\Debug\WPFNotaMusical.csproj.AssemblyReference.cache
+C:\Users\computacion\Documents\PracticaWPF080422\WPFNotaMusical\obj\Debug\WPFNotaMusical.csproj.SuggestedBindingRedirects.cache
+C:\Users\computacion\Documents\PracticaWPF080422\WPFNotaMusical\obj\Debug\MainWindow.g.cs
+C:\Users\computacion\Documents\PracticaWPF080422\WPFNotaMusical\obj\Debug\App.g.cs
+C:\Users\computacion\Documents\PracticaWPF080422\WPFNotaMusical\obj\Debug\WPFNotaMusical_MarkupCompile.cache
+C:\Users\computacion\Documents\PracticaWPF080422\WPFNotaMusical\obj\Debug\WPFNotaMusical_MarkupCompile.lref
+C:\Users\computacion\Documents\PracticaWPF080422\WPFNotaMusical\obj\Debug\MainWindow.baml
+C:\Users\computacion\Documents\PracticaWPF080422\WPFNotaMusical\obj\Debug\WPFNotaMusical.g.resources
+C:\Users\computacion\Documents\PracticaWPF080422\WPFNotaMusical\obj\Debug\WPFNotaMusical.Properties.Resources.resources
+C:\Users\computacion\Documents\PracticaWPF080422\WPFNotaMusical\obj\Debug\WPFNotaMusical.csproj.GenerateResource.cache
+C:\Users\computacion\Documents\PracticaWPF080422\WPFNotaMusical\obj\Debug\WPFNotaMusical.csproj.CoreCompileInputs.cache
+C:\Users\computacion\Documents\PracticaWPF080422\WPFNotaMusical\obj\Debug\WPFNotaMusical.exe
+C:\Users\computacion\Documents\PracticaWPF080422\WPFNotaMusical\obj\Debug\WPFNotaMusical.pdb
+C:\Users\Vamc0\Documents\CARRERA ICE\8VO SEM 2022-2\ING. DE SOFTWARE\PRACTS\PRACT35\WPFOctava\bin\Debug\WPFNotaMusical.exe.config
+C:\Users\Vamc0\Documents\CARRERA ICE\8VO SEM 2022-2\ING. DE SOFTWARE\PRACTS\PRACT35\WPFOctava\bin\Debug\WPFNotaMusical.exe
+C:\Users\Vamc0\Documents\CARRERA ICE\8VO SEM 2022-2\ING. DE SOFTWARE\PRACTS\PRACT35\WPFOctava\bin\Debug\WPFNotaMusical.pdb
+C:\Users\Vamc0\Documents\CARRERA ICE\8VO SEM 2022-2\ING. DE SOFTWARE\PRACTS\PRACT35\WPFOctava\obj\Debug\WPFNotaMusical.csproj.AssemblyReference.cache
+C:\Users\Vamc0\Documents\CARRERA ICE\8VO SEM 2022-2\ING. DE SOFTWARE\PRACTS\PRACT35\WPFOctava\obj\Debug\WPFNotaMusical.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vamc0\Documents\CARRERA ICE\8VO SEM 2022-2\ING. DE SOFTWARE\PRACTS\PRACT35\WPFOctava\obj\Debug\MainWindow.g.cs
+C:\Users\Vamc0\Documents\CARRERA ICE\8VO SEM 2022-2\ING. DE SOFTWARE\PRACTS\PRACT35\WPFOctava\obj\Debug\App.g.cs
+C:\Users\Vamc0\Documents\CARRERA ICE\8VO SEM 2022-2\ING. DE SOFTWARE\PRACTS\PRACT35\WPFOctava\obj\Debug\WPFNotaMusical_MarkupCompile.cache
+C:\Users\Vamc0\Documents\CARRERA ICE\8VO SEM 2022-2\ING. DE SOFTWARE\PRACTS\PRACT35\WPFOctava\obj\Debug\WPFNotaMusical_MarkupCompile.lref
+C:\Users\Vamc0\Documents\CARRERA ICE\8VO SEM 2022-2\ING. DE SOFTWARE\PRACTS\PRACT35\WPFOctava\obj\Debug\MainWindow.baml
+C:\Users\Vamc0\Documents\CARRERA ICE\8VO SEM 2022-2\ING. DE SOFTWARE\PRACTS\PRACT35\WPFOctava\obj\Debug\WPFNotaMusical.g.resources
+C:\Users\Vamc0\Documents\CARRERA ICE\8VO SEM 2022-2\ING. DE SOFTWARE\PRACTS\PRACT35\WPFOctava\obj\Debug\WPFNotaMusical.Properties.Resources.resources
+C:\Users\Vamc0\Documents\CARRERA ICE\8VO SEM 2022-2\ING. DE SOFTWARE\PRACTS\PRACT35\WPFOctava\obj\Debug\WPFNotaMusical.csproj.GenerateResource.cache
+C:\Users\Vamc0\Documents\CARRERA ICE\8VO SEM 2022-2\ING. DE SOFTWARE\PRACTS\PRACT35\WPFOctava\obj\Debug\WPFNotaMusical.csproj.CoreCompileInputs.cache
+C:\Users\Vamc0\Documents\CARRERA ICE\8VO SEM 2022-2\ING. DE SOFTWARE\PRACTS\PRACT35\WPFOctava\obj\Debug\WPFNotaMusical.exe
+C:\Users\Vamc0\Documents\CARRERA ICE\8VO SEM 2022-2\ING. DE SOFTWARE\PRACTS\PRACT35\WPFOctava\obj\Debug\WPFNotaMusical.pdb
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica29\WPFOctava\bin\Debug\WPFNotaMusical.exe.config
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica29\WPFOctava\bin\Debug\WPFNotaMusical.exe
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica29\WPFOctava\bin\Debug\WPFNotaMusical.pdb
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica29\WPFOctava\obj\Debug\WPFNotaMusical.csproj.AssemblyReference.cache
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica29\WPFOctava\obj\Debug\WPFNotaMusical.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica29\WPFOctava\obj\Debug\MainWindow.g.cs
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica29\WPFOctava\obj\Debug\App.g.cs
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica29\WPFOctava\obj\Debug\WPFNotaMusical_MarkupCompile.cache
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica29\WPFOctava\obj\Debug\WPFNotaMusical_MarkupCompile.lref
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica29\WPFOctava\obj\Debug\MainWindow.baml
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica29\WPFOctava\obj\Debug\WPFNotaMusical.g.resources
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica29\WPFOctava\obj\Debug\WPFNotaMusical.Properties.Resources.resources
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica29\WPFOctava\obj\Debug\WPFNotaMusical.csproj.GenerateResource.cache
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica29\WPFOctava\obj\Debug\WPFNotaMusical.csproj.CoreCompileInputs.cache
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica29\WPFOctava\obj\Debug\WPFNotaMusical.exe
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica29\WPFOctava\obj\Debug\WPFNotaMusical.pdb

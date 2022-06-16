@@ -1,0 +1,22 @@
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\Practica_LanzadorConAlarma_31_03\bin\Debug\Practica_LanzadorConAlarma_31_03.exe.config
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\Practica_LanzadorConAlarma_31_03\bin\Debug\Practica_LanzadorConAlarma_31_03.exe
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\Practica_LanzadorConAlarma_31_03\bin\Debug\Practica_LanzadorConAlarma_31_03.pdb
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\Practica_LanzadorConAlarma_31_03\obj\Debug\Practica_LanzadorConAlarma_31_03.csproj.AssemblyReference.cache
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\Practica_LanzadorConAlarma_31_03\obj\Debug\Practica_LanzadorConAlarma_31_03.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\Practica_LanzadorConAlarma_31_03\obj\Debug\Practica_LanzadorConAlarma_31_03.Form1.resources
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\Practica_LanzadorConAlarma_31_03\obj\Debug\Practica_LanzadorConAlarma_31_03.Properties.Resources.resources
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\Practica_LanzadorConAlarma_31_03\obj\Debug\Practica_LanzadorConAlarma_31_03.csproj.GenerateResource.cache
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\Practica_LanzadorConAlarma_31_03\obj\Debug\Practica_LanzadorConAlarma_31_03.csproj.CoreCompileInputs.cache
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\Practica_LanzadorConAlarma_31_03\obj\Debug\Practica_LanzadorConAlarma_31_03.exe
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\Practica_LanzadorConAlarma_31_03\obj\Debug\Practica_LanzadorConAlarma_31_03.pdb
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica23\Practica_LanzadorConAlarma_31_03\bin\Debug\Practica_LanzadorConAlarma_31_03.exe.config
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica23\Practica_LanzadorConAlarma_31_03\bin\Debug\Practica_LanzadorConAlarma_31_03.exe
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica23\Practica_LanzadorConAlarma_31_03\bin\Debug\Practica_LanzadorConAlarma_31_03.pdb
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica23\Practica_LanzadorConAlarma_31_03\obj\Debug\Practica_LanzadorConAlarma_31_03.csproj.AssemblyReference.cache
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica23\Practica_LanzadorConAlarma_31_03\obj\Debug\Practica_LanzadorConAlarma_31_03.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica23\Practica_LanzadorConAlarma_31_03\obj\Debug\Practica_LanzadorConAlarma_31_03.Form1.resources
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica23\Practica_LanzadorConAlarma_31_03\obj\Debug\Practica_LanzadorConAlarma_31_03.Properties.Resources.resources
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica23\Practica_LanzadorConAlarma_31_03\obj\Debug\Practica_LanzadorConAlarma_31_03.csproj.GenerateResource.cache
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica23\Practica_LanzadorConAlarma_31_03\obj\Debug\Practica_LanzadorConAlarma_31_03.csproj.CoreCompileInputs.cache
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica23\Practica_LanzadorConAlarma_31_03\obj\Debug\Practica_LanzadorConAlarma_31_03.exe
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica23\Practica_LanzadorConAlarma_31_03\obj\Debug\Practica_LanzadorConAlarma_31_03.pdb

@@ -1,0 +1,63 @@
+C:\Users\Vamc0\Documents\CARRERA ICE\8VO SEM 2022-2\ING. DE SOFTWARE\PRACTS\PRACT18\WFCalculadora02\obj\Debug\WFCalculadora02.csproj.AssemblyReference.cache
+C:\Users\Vamc0\Documents\CARRERA ICE\8VO SEM 2022-2\ING. DE SOFTWARE\PRACTS\PRACT18\WFCalculadora02\obj\Debug\WFCalculadora02.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vamc0\Documents\CARRERA ICE\8VO SEM 2022-2\ING. DE SOFTWARE\PRACTS\PRACT18\WFCalculadora02\obj\Debug\WFCalculadora02.Form1.resources
+C:\Users\Vamc0\Documents\CARRERA ICE\8VO SEM 2022-2\ING. DE SOFTWARE\PRACTS\PRACT18\WFCalculadora02\obj\Debug\WFCalculadora02.Properties.Resources.resources
+C:\Users\Vamc0\Documents\CARRERA ICE\8VO SEM 2022-2\ING. DE SOFTWARE\PRACTS\PRACT18\WFCalculadora02\obj\Debug\WFCalculadora02.csproj.GenerateResource.cache
+C:\Users\Vamc0\Documents\CARRERA ICE\8VO SEM 2022-2\ING. DE SOFTWARE\PRACTS\PRACT18\WFCalculadora02\obj\Debug\WFCalculadora02.csproj.CoreCompileInputs.cache
+C:\Users\Vamc0\Documents\CARRERA ICE\8VO SEM 2022-2\ING. DE SOFTWARE\PRACTS\PRACT18\WFCalculadora02\bin\Debug\WFCalculadora02.exe.config
+C:\Users\Vamc0\Documents\CARRERA ICE\8VO SEM 2022-2\ING. DE SOFTWARE\PRACTS\PRACT18\WFCalculadora02\bin\Debug\WFCalculadora02.exe
+C:\Users\Vamc0\Documents\CARRERA ICE\8VO SEM 2022-2\ING. DE SOFTWARE\PRACTS\PRACT18\WFCalculadora02\bin\Debug\WFCalculadora02.pdb
+C:\Users\Vamc0\Documents\CARRERA ICE\8VO SEM 2022-2\ING. DE SOFTWARE\PRACTS\PRACT18\WFCalculadora02\obj\Debug\WFCalculadora02.exe
+C:\Users\Vamc0\Documents\CARRERA ICE\8VO SEM 2022-2\ING. DE SOFTWARE\PRACTS\PRACT18\WFCalculadora02\obj\Debug\WFCalculadora02.pdb
+C:\Users\Vamc0\Documents\CARRERA ICE\8VO SEM 2022-2\ING. DE SOFTWARE\PRACTS\PRACT19\WFCalculadora02\bin\Debug\WFCalculadora02.exe.config
+C:\Users\Vamc0\Documents\CARRERA ICE\8VO SEM 2022-2\ING. DE SOFTWARE\PRACTS\PRACT19\WFCalculadora02\bin\Debug\WFCalculadora02.exe
+C:\Users\Vamc0\Documents\CARRERA ICE\8VO SEM 2022-2\ING. DE SOFTWARE\PRACTS\PRACT19\WFCalculadora02\bin\Debug\WFCalculadora02.pdb
+C:\Users\Vamc0\Documents\CARRERA ICE\8VO SEM 2022-2\ING. DE SOFTWARE\PRACTS\PRACT19\WFCalculadora02\bin\Debug\info.lundin.math.dll
+C:\Users\Vamc0\Documents\CARRERA ICE\8VO SEM 2022-2\ING. DE SOFTWARE\PRACTS\PRACT19\WFCalculadora02\obj\Debug\WFCalculadora02.csproj.AssemblyReference.cache
+C:\Users\Vamc0\Documents\CARRERA ICE\8VO SEM 2022-2\ING. DE SOFTWARE\PRACTS\PRACT19\WFCalculadora02\obj\Debug\WFCalculadora02.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vamc0\Documents\CARRERA ICE\8VO SEM 2022-2\ING. DE SOFTWARE\PRACTS\PRACT19\WFCalculadora02\obj\Debug\WFCalculadora02.Form1.resources
+C:\Users\Vamc0\Documents\CARRERA ICE\8VO SEM 2022-2\ING. DE SOFTWARE\PRACTS\PRACT19\WFCalculadora02\obj\Debug\WFCalculadora02.Properties.Resources.resources
+C:\Users\Vamc0\Documents\CARRERA ICE\8VO SEM 2022-2\ING. DE SOFTWARE\PRACTS\PRACT19\WFCalculadora02\obj\Debug\WFCalculadora02.csproj.GenerateResource.cache
+C:\Users\Vamc0\Documents\CARRERA ICE\8VO SEM 2022-2\ING. DE SOFTWARE\PRACTS\PRACT19\WFCalculadora02\obj\Debug\WFCalculadora02.csproj.CoreCompileInputs.cache
+C:\Users\Vamc0\Documents\CARRERA ICE\8VO SEM 2022-2\ING. DE SOFTWARE\PRACTS\PRACT19\WFCalculadora02\obj\Debug\WFCalculadora02.csproj.CopyComplete
+C:\Users\Vamc0\Documents\CARRERA ICE\8VO SEM 2022-2\ING. DE SOFTWARE\PRACTS\PRACT19\WFCalculadora02\obj\Debug\WFCalculadora02.exe
+C:\Users\Vamc0\Documents\CARRERA ICE\8VO SEM 2022-2\ING. DE SOFTWARE\PRACTS\PRACT19\WFCalculadora02\obj\Debug\WFCalculadora02.pdb
+C:\Users\Vamc0\Documents\CARRERA ICE\8VO SEM 2022-2\ING. DE SOFTWARE\PRACTS\PRACT20\WFCalculadora02\bin\Debug\WFCalculadora02.exe.config
+C:\Users\Vamc0\Documents\CARRERA ICE\8VO SEM 2022-2\ING. DE SOFTWARE\PRACTS\PRACT20\WFCalculadora02\bin\Debug\WFCalculadora02.exe
+C:\Users\Vamc0\Documents\CARRERA ICE\8VO SEM 2022-2\ING. DE SOFTWARE\PRACTS\PRACT20\WFCalculadora02\bin\Debug\WFCalculadora02.pdb
+C:\Users\Vamc0\Documents\CARRERA ICE\8VO SEM 2022-2\ING. DE SOFTWARE\PRACTS\PRACT20\WFCalculadora02\bin\Debug\info.lundin.math.dll
+C:\Users\Vamc0\Documents\CARRERA ICE\8VO SEM 2022-2\ING. DE SOFTWARE\PRACTS\PRACT20\WFCalculadora02\obj\Debug\WFCalculadora02.csproj.AssemblyReference.cache
+C:\Users\Vamc0\Documents\CARRERA ICE\8VO SEM 2022-2\ING. DE SOFTWARE\PRACTS\PRACT20\WFCalculadora02\obj\Debug\WFCalculadora02.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vamc0\Documents\CARRERA ICE\8VO SEM 2022-2\ING. DE SOFTWARE\PRACTS\PRACT20\WFCalculadora02\obj\Debug\WFCalculadora02.Form1.resources
+C:\Users\Vamc0\Documents\CARRERA ICE\8VO SEM 2022-2\ING. DE SOFTWARE\PRACTS\PRACT20\WFCalculadora02\obj\Debug\WFCalculadora02.Properties.Resources.resources
+C:\Users\Vamc0\Documents\CARRERA ICE\8VO SEM 2022-2\ING. DE SOFTWARE\PRACTS\PRACT20\WFCalculadora02\obj\Debug\WFCalculadora02.csproj.GenerateResource.cache
+C:\Users\Vamc0\Documents\CARRERA ICE\8VO SEM 2022-2\ING. DE SOFTWARE\PRACTS\PRACT20\WFCalculadora02\obj\Debug\WFCalculadora02.csproj.CoreCompileInputs.cache
+C:\Users\Vamc0\Documents\CARRERA ICE\8VO SEM 2022-2\ING. DE SOFTWARE\PRACTS\PRACT20\WFCalculadora02\obj\Debug\WFCalculadora02.csproj.CopyComplete
+C:\Users\Vamc0\Documents\CARRERA ICE\8VO SEM 2022-2\ING. DE SOFTWARE\PRACTS\PRACT20\WFCalculadora02\obj\Debug\WFCalculadora02.exe
+C:\Users\Vamc0\Documents\CARRERA ICE\8VO SEM 2022-2\ING. DE SOFTWARE\PRACTS\PRACT20\WFCalculadora02\obj\Debug\WFCalculadora02.pdb
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\Practica1\Practica21\WFCalculadora02\bin\Debug\WFCalculadora02.exe.config
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\Practica1\Practica21\WFCalculadora02\bin\Debug\WFCalculadora02.exe
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\Practica1\Practica21\WFCalculadora02\bin\Debug\WFCalculadora02.pdb
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\Practica1\Practica21\WFCalculadora02\bin\Debug\info.lundin.math.dll
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\Practica1\Practica21\WFCalculadora02\obj\Debug\WFCalculadora02.csproj.AssemblyReference.cache
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\Practica1\Practica21\WFCalculadora02\obj\Debug\WFCalculadora02.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\Practica1\Practica21\WFCalculadora02\obj\Debug\WFCalculadora02.Form1.resources
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\Practica1\Practica21\WFCalculadora02\obj\Debug\WFCalculadora02.Properties.Resources.resources
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\Practica1\Practica21\WFCalculadora02\obj\Debug\WFCalculadora02.csproj.GenerateResource.cache
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\Practica1\Practica21\WFCalculadora02\obj\Debug\WFCalculadora02.csproj.CoreCompileInputs.cache
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\Practica1\Practica21\WFCalculadora02\obj\Debug\WFCalculadora02.csproj.CopyComplete
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\Practica1\Practica21\WFCalculadora02\obj\Debug\WFCalculadora02.exe
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\Practica1\Practica21\WFCalculadora02\obj\Debug\WFCalculadora02.pdb
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Proyectos\Proyecto3\WFCalculadora02\bin\Debug\WFCalculadora02.exe.config
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Proyectos\Proyecto3\WFCalculadora02\bin\Debug\WFCalculadora02.exe
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Proyectos\Proyecto3\WFCalculadora02\bin\Debug\WFCalculadora02.pdb
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Proyectos\Proyecto3\WFCalculadora02\bin\Debug\info.lundin.math.dll
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Proyectos\Proyecto3\WFCalculadora02\obj\Debug\WFCalculadora02.csproj.AssemblyReference.cache
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Proyectos\Proyecto3\WFCalculadora02\obj\Debug\WFCalculadora02.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Proyectos\Proyecto3\WFCalculadora02\obj\Debug\WFCalculadora02.Form1.resources
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Proyectos\Proyecto3\WFCalculadora02\obj\Debug\WFCalculadora02.Properties.Resources.resources
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Proyectos\Proyecto3\WFCalculadora02\obj\Debug\WFCalculadora02.csproj.GenerateResource.cache
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Proyectos\Proyecto3\WFCalculadora02\obj\Debug\WFCalculadora02.csproj.CoreCompileInputs.cache
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Proyectos\Proyecto3\WFCalculadora02\obj\Debug\WFCalculadora02.csproj.CopyComplete
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Proyectos\Proyecto3\WFCalculadora02\obj\Debug\WFCalculadora02.exe
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Proyectos\Proyecto3\WFCalculadora02\obj\Debug\WFCalculadora02.pdb

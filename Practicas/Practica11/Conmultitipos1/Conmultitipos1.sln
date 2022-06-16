@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conmultitipos1", "Conmultitipos1.csproj", "{5DB13653-C609-4DC8-8592-A640EB02CFA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DB13653-C609-4DC8-8592-A640EB02CFA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DB13653-C609-4DC8-8592-A640EB02CFA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DB13653-C609-4DC8-8592-A640EB02CFA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DB13653-C609-4DC8-8592-A640EB02CFA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A2F63D0-13EC-43F9-9790-F5E9ED9E91E8}
+	EndGlobalSection
+EndGlobal

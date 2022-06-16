@@ -1,0 +1,40 @@
+﻿<Page x:Class="ExamenCalcuNL15.Conversion"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ExamenCalcuNL15"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="1100"
+      Title="Conversion">
+
+    <Grid>
+        <TextBox x:Name="Tb1" HorizontalAlignment="Left" Margin="137,125,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="180"/>
+        <TextBox x:Name="Tb2" HorizontalAlignment="Left" Margin="483,125,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="180" IsReadOnly="True" Text="0"/>
+        <Button x:Name="BtConvertir" Content="Convertir a" HorizontalAlignment="Left" Margin="366,106,0,0" VerticalAlignment="Top" Click="BtConvertir_Click" FontSize="14"/>
+        <TextBox x:Name="Tb3" HorizontalAlignment="Left" Margin="692,124,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="180" IsReadOnly="True" Text="0"/>
+        <TextBox x:Name="Tb4" HorizontalAlignment="Left" Margin="894,125,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="180" IsReadOnly="True" Text="0"/>
+        <RadioButton x:Name="RbtDec" Content="Decimal" HorizontalAlignment="Left" Margin="21,82,0,0" VerticalAlignment="Top" Checked="RbtDec_Checked"/>
+        <RadioButton x:Name="RbtBin" Content="Binario" HorizontalAlignment="Left" Margin="21,103,0,0" VerticalAlignment="Top" Checked="RbtBin_Checked"/>
+        <RadioButton x:Name="RbtHexa" Content="Hexadecimal" HorizontalAlignment="Left" Margin="21,124,0,0" VerticalAlignment="Top" Checked="RbtHexa_Checked"/>
+        <RadioButton x:Name="RbtOctal" Content="Octal" HorizontalAlignment="Left" Margin="21,144,0,0" VerticalAlignment="Top" Checked="RbtOctal_Checked"/>
+        <Label x:Name="Lb1" Content="" HorizontalAlignment="Left" Margin="175,75,0,0" VerticalAlignment="Top" Width="104" FontSize="16" HorizontalContentAlignment="Center"/>
+        <Label x:Name="Lb2" Content="" HorizontalAlignment="Left" Margin="521,76,0,0" VerticalAlignment="Top" Width="104" FontSize="16" HorizontalContentAlignment="Center"/>
+        <Label x:Name="Lb3" Content="" HorizontalAlignment="Left" Margin="735,75,0,0" VerticalAlignment="Top" Width="104" FontSize="16" HorizontalContentAlignment="Center"/>
+        <Label x:Name="Lb4" Content="" HorizontalAlignment="Left" Margin="932,75,0,0" VerticalAlignment="Top" Width="106" FontSize="16" HorizontalContentAlignment="Center"/>
+        <Label x:Name="Label" Content="Seleccione el tipo de dato a convertir" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top" Width="416" FontSize="20" HorizontalContentAlignment="Center"/>
+        <RadioButton x:Name="RbtCelsius" Content="Celsius" HorizontalAlignment="Left" Margin="18,216,0,0" VerticalAlignment="Top" Checked="RbtCelsius_Checked"/>
+        <RadioButton x:Name="RbtFahrenheit" Content="Fahrenheit" HorizontalAlignment="Left" Margin="18,237,0,0" VerticalAlignment="Top" Checked="RbtFahrenheit_Checked"/>
+        <RadioButton x:Name="RbtRankine" Content="Rankine" HorizontalAlignment="Left" Margin="18,258,0,0" VerticalAlignment="Top" Checked="RbtRankine_Checked"/>
+        <RadioButton x:Name="RbtKelvin" Content="Kelvin " HorizontalAlignment="Left" Margin="18,278,0,0" VerticalAlignment="Top" Checked="RbtKelvin_Checked"/>
+        <Label x:Name="Lb5" Content="" HorizontalAlignment="Left" Margin="174,229,0,0" VerticalAlignment="Top" Width="104" FontSize="16" HorizontalContentAlignment="Center"/>
+        <Label x:Name="Lb6" Content="" HorizontalAlignment="Left" Margin="520,230,0,0" VerticalAlignment="Top" Width="104" FontSize="16" HorizontalContentAlignment="Center"/>
+        <Label x:Name="Lb7" Content="" HorizontalAlignment="Left" Margin="734,229,0,0" VerticalAlignment="Top" Width="104" FontSize="16" HorizontalContentAlignment="Center"/>
+        <Label x:Name="Lb8" Content="" HorizontalAlignment="Left" Margin="931,229,0,0" VerticalAlignment="Top" Width="106" FontSize="16" HorizontalContentAlignment="Center"/>
+        <TextBox x:Name="Tb5" HorizontalAlignment="Left" Margin="138,285,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="180"/>
+        <TextBox x:Name="Tb6" HorizontalAlignment="Left" Margin="484,285,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="180" IsReadOnly="True" Text="0"/>
+        <Button x:Name="BtConvertirTempe" Content="Convertir a" HorizontalAlignment="Left" Margin="367,266,0,0" VerticalAlignment="Top" Click="BtConvertirTempe_Click" FontSize="14"/>
+        <TextBox x:Name="Tb7" HorizontalAlignment="Left" Margin="693,284,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="180" IsReadOnly="True" Text="0"/>
+        <TextBox x:Name="Tb8" HorizontalAlignment="Left" Margin="895,285,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="180" IsReadOnly="True" Text="0"/>
+    </Grid>
+</Page>

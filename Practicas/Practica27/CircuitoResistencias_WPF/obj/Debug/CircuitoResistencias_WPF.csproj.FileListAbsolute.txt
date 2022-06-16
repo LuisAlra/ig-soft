@@ -1,0 +1,32 @@
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\CircuitoResistencias_WPF\bin\Debug\CircuitoResistencias_WPF.exe.config
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\CircuitoResistencias_WPF\bin\Debug\CircuitoResistencias_WPF.exe
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\CircuitoResistencias_WPF\bin\Debug\CircuitoResistencias_WPF.pdb
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\CircuitoResistencias_WPF\obj\Debug\CircuitoResistencias_WPF.csproj.AssemblyReference.cache
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\CircuitoResistencias_WPF\obj\Debug\CircuitoResistencias_WPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\CircuitoResistencias_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\CircuitoResistencias_WPF\obj\Debug\App.g.cs
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\CircuitoResistencias_WPF\obj\Debug\CircuitoResistencias_WPF_MarkupCompile.cache
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\CircuitoResistencias_WPF\obj\Debug\CircuitoResistencias_WPF_MarkupCompile.lref
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\CircuitoResistencias_WPF\obj\Debug\MainWindow.baml
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\CircuitoResistencias_WPF\obj\Debug\CircuitoResistencias_WPF.g.resources
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\CircuitoResistencias_WPF\obj\Debug\CircuitoResistencias_WPF.Properties.Resources.resources
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\CircuitoResistencias_WPF\obj\Debug\CircuitoResistencias_WPF.csproj.GenerateResource.cache
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\CircuitoResistencias_WPF\obj\Debug\CircuitoResistencias_WPF.csproj.CoreCompileInputs.cache
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\CircuitoResistencias_WPF\obj\Debug\CircuitoResistencias_WPF.exe
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\CircuitoResistencias_WPF\obj\Debug\CircuitoResistencias_WPF.pdb
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica27\CircuitoResistencias_WPF\bin\Debug\CircuitoResistencias_WPF.exe.config
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica27\CircuitoResistencias_WPF\bin\Debug\CircuitoResistencias_WPF.exe
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica27\CircuitoResistencias_WPF\bin\Debug\CircuitoResistencias_WPF.pdb
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica27\CircuitoResistencias_WPF\obj\Debug\CircuitoResistencias_WPF.csproj.AssemblyReference.cache
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica27\CircuitoResistencias_WPF\obj\Debug\CircuitoResistencias_WPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica27\CircuitoResistencias_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica27\CircuitoResistencias_WPF\obj\Debug\App.g.cs
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica27\CircuitoResistencias_WPF\obj\Debug\CircuitoResistencias_WPF_MarkupCompile.cache
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica27\CircuitoResistencias_WPF\obj\Debug\CircuitoResistencias_WPF_MarkupCompile.lref
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica27\CircuitoResistencias_WPF\obj\Debug\MainWindow.baml
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica27\CircuitoResistencias_WPF\obj\Debug\CircuitoResistencias_WPF.g.resources
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica27\CircuitoResistencias_WPF\obj\Debug\CircuitoResistencias_WPF.Properties.Resources.resources
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica27\CircuitoResistencias_WPF\obj\Debug\CircuitoResistencias_WPF.csproj.GenerateResource.cache
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica27\CircuitoResistencias_WPF\obj\Debug\CircuitoResistencias_WPF.csproj.CoreCompileInputs.cache
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica27\CircuitoResistencias_WPF\obj\Debug\CircuitoResistencias_WPF.exe
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica27\CircuitoResistencias_WPF\obj\Debug\CircuitoResistencias_WPF.pdb

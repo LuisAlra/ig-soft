@@ -1,0 +1,19 @@
+﻿<Window x:Class="WPFNotaMusical.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFNotaMusical"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Content="Nota" HorizontalAlignment="Left" Margin="49,84,0,0" VerticalAlignment="Top" Height="25" Width="61"/>
+        <Frame Content="Frame" Margin="262,43,37,27"/>
+        <Button x:Name="btnota1" Content=" " HorizontalAlignment="Left" Margin="316,141,0,0" VerticalAlignment="Top" Height="235" Width="65" Background="White" Click="btnota1_Click"/>
+        <Button x:Name="btnota2" Content=" " HorizontalAlignment="Left" Margin="386,141,0,0" VerticalAlignment="Top" Height="235" Width="65" Background="White"/>
+        <Button x:Name="btnotasos" Content="Button" HorizontalAlignment="Left" Height="162" Margin="357,141,0,0" VerticalAlignment="Top" Width="43" Background="#FF080202"/>
+        <ListBox x:Name="lB1" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="524,141,53,94"/>
+        <Button Content="Firma" HorizontalAlignment="Left" Margin="10,387,0,0" VerticalAlignment="Top" Click="Button_Click"/>
+
+    </Grid>
+</Window>

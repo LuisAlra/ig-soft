@@ -1,0 +1,78 @@
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas\practica_Graficador\bin\Debug\practica_Graficador.exe.config
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas\practica_Graficador\bin\Debug\practica_Graficador.exe
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas\practica_Graficador\bin\Debug\practica_Graficador.pdb
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas\practica_Graficador\obj\Debug\practica_Graficador.csproj.AssemblyReference.cache
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas\practica_Graficador\obj\Debug\practica_Graficador.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas\practica_Graficador\obj\Debug\practica_Graficador.Form1.resources
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas\practica_Graficador\obj\Debug\practica_Graficador.Properties.Resources.resources
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas\practica_Graficador\obj\Debug\practica_Graficador.csproj.GenerateResource.cache
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas\practica_Graficador\obj\Debug\practica_Graficador.csproj.CoreCompileInputs.cache
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas\practica_Graficador\obj\Debug\practica_Graficador.exe
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas\practica_Graficador\obj\Debug\practica_Graficador.pdb
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas\practica_Graficador\bin\Debug\info.lundin.math.dll
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas\practica_Graficador\obj\Debug\practica_Graficador.csproj.CopyComplete
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\practica_Graficador2_parser\bin\Debug\practica_Graficador.exe.config
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\practica_Graficador2_parser\bin\Debug\practica_Graficador.exe
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\practica_Graficador2_parser\bin\Debug\practica_Graficador.pdb
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\practica_Graficador2_parser\bin\Debug\info.lundin.math.dll
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\practica_Graficador2_parser\obj\Debug\practica_Graficador.csproj.AssemblyReference.cache
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\practica_Graficador2_parser\obj\Debug\practica_Graficador.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\practica_Graficador2_parser\obj\Debug\practica_Graficador.Form1.resources
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\practica_Graficador2_parser\obj\Debug\practica_Graficador.Properties.Resources.resources
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\practica_Graficador2_parser\obj\Debug\practica_Graficador.csproj.GenerateResource.cache
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\practica_Graficador2_parser\obj\Debug\practica_Graficador.csproj.CoreCompileInputs.cache
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\practica_Graficador2_parser\obj\Debug\practica_Graficador.csproj.CopyComplete
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\practica_Graficador2_parser\obj\Debug\practica_Graficador.exe
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\practica_Graficador2_parser\obj\Debug\practica_Graficador.pdb
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\practica_Graficador4_multifunciones_con_Tabulaciones\obj\Debug\practica_Graficador.csproj.AssemblyReference.cache
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\practica_Graficador4_multifunciones_con_Tabulaciones\obj\Debug\practica_Graficador.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\practica_Graficador4_multifunciones_con_Tabulaciones\obj\Debug\practica_Graficador.Form1.resources
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\practica_Graficador4_multifunciones_con_Tabulaciones\obj\Debug\practica_Graficador.Properties.Resources.resources
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\practica_Graficador4_multifunciones_con_Tabulaciones\obj\Debug\practica_Graficador.csproj.GenerateResource.cache
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\practica_Graficador4_multifunciones_con_Tabulaciones\obj\Debug\practica_Graficador.csproj.CoreCompileInputs.cache
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\practica_Graficador4_multifunciones_con_Tabulaciones\obj\Debug\practica_Graficador.exe
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\practica_Graficador4_multifunciones_con_Tabulaciones\obj\Debug\practica_Graficador.pdb
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\practica_Graficador4_multifunciones_con_Tabulaciones\bin\Debug\practica_Graficador.exe.config
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\practica_Graficador4_multifunciones_con_Tabulaciones\bin\Debug\practica_Graficador.exe
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\practica_Graficador4_multifunciones_con_Tabulaciones\bin\Debug\practica_Graficador.pdb
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\practica_Graficador4_multifunciones_con_Tabulaciones\bin\Debug\info.lundin.math.dll
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\practica_Graficador4_multifunciones_con_Tabulaciones\obj\Debug\practica_Graficador.csproj.CopyComplete
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\practica_Graficador5_polares\bin\Debug\practica_Graficador.exe.config
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\practica_Graficador5_polares\bin\Debug\practica_Graficador.exe
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\practica_Graficador5_polares\bin\Debug\practica_Graficador.pdb
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\practica_Graficador5_polares\bin\Debug\info.lundin.math.dll
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\practica_Graficador5_polares\obj\Debug\practica_Graficador.csproj.AssemblyReference.cache
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\practica_Graficador5_polares\obj\Debug\practica_Graficador.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\practica_Graficador5_polares\obj\Debug\practica_Graficador.Form1.resources
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\practica_Graficador5_polares\obj\Debug\practica_Graficador.Properties.Resources.resources
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\practica_Graficador5_polares\obj\Debug\practica_Graficador.csproj.GenerateResource.cache
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\practica_Graficador5_polares\obj\Debug\practica_Graficador.csproj.CoreCompileInputs.cache
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\practica_Graficador5_polares\obj\Debug\practica_Graficador.csproj.CopyComplete
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\practica_Graficador5_polares\obj\Debug\practica_Graficador.exe
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\Practicas_SEGUNDO PARCIAL\practica_Graficador5_polares\obj\Debug\practica_Graficador.pdb
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\PracToDeliver_SegundoParcial\Practica6_Graf_Polares\bin\Debug\practica_Graficador.exe.config
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\PracToDeliver_SegundoParcial\Practica6_Graf_Polares\bin\Debug\practica_Graficador.exe
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\PracToDeliver_SegundoParcial\Practica6_Graf_Polares\bin\Debug\practica_Graficador.pdb
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\PracToDeliver_SegundoParcial\Practica6_Graf_Polares\bin\Debug\info.lundin.math.dll
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\PracToDeliver_SegundoParcial\Practica6_Graf_Polares\obj\Debug\practica_Graficador.csproj.AssemblyReference.cache
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\PracToDeliver_SegundoParcial\Practica6_Graf_Polares\obj\Debug\practica_Graficador.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\PracToDeliver_SegundoParcial\Practica6_Graf_Polares\obj\Debug\practica_Graficador.Form1.resources
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\PracToDeliver_SegundoParcial\Practica6_Graf_Polares\obj\Debug\practica_Graficador.Properties.Resources.resources
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\PracToDeliver_SegundoParcial\Practica6_Graf_Polares\obj\Debug\practica_Graficador.csproj.GenerateResource.cache
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\PracToDeliver_SegundoParcial\Practica6_Graf_Polares\obj\Debug\practica_Graficador.csproj.CoreCompileInputs.cache
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\PracToDeliver_SegundoParcial\Practica6_Graf_Polares\obj\Debug\practica_Graficador.csproj.CopyComplete
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\PracToDeliver_SegundoParcial\Practica6_Graf_Polares\obj\Debug\practica_Graficador.exe
+C:\Users\Fawmu\Desktop\8vo semestre\Ing_software\PracToDeliver_SegundoParcial\Practica6_Graf_Polares\obj\Debug\practica_Graficador.pdb
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica7\Practica_Graf_Polares\bin\Debug\practica_Graficador.exe.config
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica7\Practica_Graf_Polares\bin\Debug\practica_Graficador.exe
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica7\Practica_Graf_Polares\bin\Debug\practica_Graficador.pdb
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica7\Practica_Graf_Polares\bin\Debug\info.lundin.math.dll
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica7\Practica_Graf_Polares\obj\Debug\practica_Graficador.csproj.AssemblyReference.cache
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica7\Practica_Graf_Polares\obj\Debug\practica_Graficador.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica7\Practica_Graf_Polares\obj\Debug\practica_Graficador.Form1.resources
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica7\Practica_Graf_Polares\obj\Debug\practica_Graficador.Properties.Resources.resources
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica7\Practica_Graf_Polares\obj\Debug\practica_Graficador.csproj.GenerateResource.cache
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica7\Practica_Graf_Polares\obj\Debug\practica_Graficador.csproj.CoreCompileInputs.cache
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica7\Practica_Graf_Polares\obj\Debug\practica_Graficador.csproj.CopyComplete
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica7\Practica_Graf_Polares\obj\Debug\practica_Graficador.exe
+C:\Users\rafa_\OneDrive\Documents\Octavo Semestre\Ingenieria de software\SegundoParcial\Practicas\Practicas\Practica7\Practica_Graf_Polares\obj\Debug\practica_Graficador.pdb

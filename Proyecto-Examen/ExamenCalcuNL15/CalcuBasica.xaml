@@ -1,0 +1,77 @@
+﻿<Page x:Class="ExamenCalcuNL15.CalcuBasica"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ExamenCalcuNL15"
+      mc:Ignorable="d" 
+      d:DesignHeight="700" d:DesignWidth="1300"
+      Title="CalcuBasica">
+
+    <Grid Margin="0,-5,0,5">
+        <Label Content="X" HorizontalAlignment="Left" Margin="16,137,0,0" VerticalAlignment="Top" Height="65" Width="53" FontSize="36"/>
+        <Label Content="Y" HorizontalAlignment="Left" Margin="17,201,0,0" VerticalAlignment="Top" Height="66" Width="53" FontSize="36"/>
+        <Button x:Name="BtCosx" Content="Cos" HorizontalAlignment="Left" Margin="290,250,0,0" VerticalAlignment="Top" FontSize="36" Click="BtCosx_Click" Width="85"/>
+        <TextBox x:Name="Tbx" HorizontalAlignment="Left" Margin="74,150,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="96" Height="40" FontSize="24"/>
+        <TextBox x:Name="Tby" HorizontalAlignment="Left" Margin="73,214,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="97" Height="40" FontSize="24"/>
+        <ListBox x:Name="LBsalida" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="994,68,14,114"/>
+        <TextBox x:Name="Tbmensaje" HorizontalAlignment="Left" Margin="490,625,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="264" Height="59" IsReadOnly="True"/>
+        <Button x:Name="BtSinx" Content="Sin" HorizontalAlignment="Left" Margin="382,250,0,0" VerticalAlignment="Top" FontSize="36" Click="BtSinx_Click" Width="110"/>
+        <Button x:Name="BtTanx" Content="Tan" HorizontalAlignment="Left" Margin="499,250,0,0" VerticalAlignment="Top" FontSize="36" Click="BtTanx_Click" Width="105"/>
+        <Button x:Name="BtAcosx" Content="Acos" HorizontalAlignment="Left" Margin="290,311,0,0" VerticalAlignment="Top" FontSize="36" Click="BtAcosx_Click" Width="85"/>
+        <Button x:Name="BtAsinx" Content="Asin" HorizontalAlignment="Left" Margin="382,312,0,0" VerticalAlignment="Top" FontSize="36" Click="BtAsinx_Click" Width="110"/>
+        <Button x:Name="BtAtanx" Content="Atan" HorizontalAlignment="Left" Margin="499,314,0,0" VerticalAlignment="Top" FontSize="36" Click="BtAtanx_Click" Width="105"/>
+        <Button x:Name="BtCoshx" Content="Cosh" HorizontalAlignment="Left" Margin="290,372,0,0" VerticalAlignment="Top" FontSize="36" Click="BtCoshx_Click" Width="85"/>
+        <Button x:Name="BtSinhx" Content="Sinh" HorizontalAlignment="Left" Margin="382,372,0,0" VerticalAlignment="Top" FontSize="36" Click="BtSinhx_Click" Width="110"/>
+        <Button x:Name="BtTanhx" Content="Tanh" HorizontalAlignment="Left" Margin="499,372,0,0" VerticalAlignment="Top" FontSize="36" Click="BtTanhx_Click" Width="105"/>
+        <Button x:Name="BtCotx" Content="Cot" HorizontalAlignment="Left" Margin="290,432,0,0" VerticalAlignment="Top" FontSize="36" Click="BtCotx_Click" Width="85"/>
+        <Button x:Name="BtSecx" Content="Sec" HorizontalAlignment="Left" Margin="382,432,0,0" VerticalAlignment="Top" FontSize="36" Click="BtSecx_Click" Width="110"/>
+        <Button x:Name="BtCscx" Content="Csc" HorizontalAlignment="Left" Margin="499,432,0,0" VerticalAlignment="Top" FontSize="36" Click="BtCscx_Click" Width="105"/>
+        <Button x:Name="BtExpx" Content="Exp" HorizontalAlignment="Left" Margin="290,492,0,0" VerticalAlignment="Top" FontSize="36" Click="BtExpx_Click" Width="85"/>
+        <Button x:Name="BtLnx" Content="Ln" HorizontalAlignment="Left" Margin="382,492,0,0" VerticalAlignment="Top" FontSize="36" Click="BtLnx_Click" Width="110"/>
+        <Button x:Name="BtLog10x" Content="Log10" HorizontalAlignment="Left" Margin="499,492,0,0" VerticalAlignment="Top" FontSize="36" Click="BtLog10x_Click" Width="105"/>
+        <Button x:Name="BtAbsx" Content="Abs" HorizontalAlignment="Left" Margin="290,552,0,0" VerticalAlignment="Top" FontSize="36" Click="BtAbsx_Click" Width="85"/>
+        <Button x:Name="BtRoundx" Content="Round" HorizontalAlignment="Left" Margin="382,552,0,0" VerticalAlignment="Top" FontSize="36" Click="BtRoundx_Click" Width="110"/>
+        <Button x:Name="BtSingx" Content="Sign" HorizontalAlignment="Left" Margin="499,552,0,0" VerticalAlignment="Top" FontSize="36" Click="BtSingx_Click" Width="105"/>
+        <Button x:Name="BtSiny" Content="Sin" HorizontalAlignment="Left" Margin="737,253,0,0" VerticalAlignment="Top" FontSize="36" Click="BtSiny_Click" Width="110"/>
+        <Button x:Name="BtCosy" Content="Cos" HorizontalAlignment="Left" Margin="643,253,0,0" VerticalAlignment="Top" FontSize="36" Click="BtCosy_Click" Width="85"/>
+        <Button x:Name="BtTany" Content="Tan" HorizontalAlignment="Left" Margin="856,253,0,0" VerticalAlignment="Top" FontSize="36" Click="BtTany_Click" Width="105"/>
+        <Button x:Name="BtAcosy" Content="Acos" HorizontalAlignment="Left" Margin="643,314,0,0" VerticalAlignment="Top" FontSize="36" Click="BtAcosy_Click" Width="85"/>
+        <Button x:Name="BtAsiny" Content="Asin" HorizontalAlignment="Left" Margin="737,314,0,0" VerticalAlignment="Top" FontSize="36" Click="BtAsiny_Click" Width="110"/>
+        <Button x:Name="BtAtany" Content="Atan" HorizontalAlignment="Left" Margin="856,314,0,0" VerticalAlignment="Top" FontSize="36" Click="BtAtany_Click" Width="105"/>
+        <Button x:Name="BtCoshy" Content="Cosh" HorizontalAlignment="Left" Margin="643,374,0,0" VerticalAlignment="Top" FontSize="36" Click="BtCoshy_Click" Width="85"/>
+        <Button x:Name="BtSinhy" Content="Sinh" HorizontalAlignment="Left" Margin="737,374,0,0" VerticalAlignment="Top" FontSize="36" Click="BtSinhy_Click" Width="110"/>
+        <Button x:Name="BtTanhy" Content="Tanh" HorizontalAlignment="Left" Margin="856,374,0,0" VerticalAlignment="Top" FontSize="36" Click="BtTanhy_Click" Width="105"/>
+        <Button x:Name="BtCoty" Content="Cot" HorizontalAlignment="Left" Margin="643,434,0,0" VerticalAlignment="Top" FontSize="36" Click="BtCoty_Click" Width="85"/>
+        <Button x:Name="BtSecy" Content="Sec" HorizontalAlignment="Left" Margin="737,432,0,0" VerticalAlignment="Top" FontSize="36" Click="BtSecy_Click" Width="110"/>
+        <Button x:Name="BtCscy" Content="Csc" HorizontalAlignment="Left" Margin="856,434,0,0" VerticalAlignment="Top" FontSize="36" Click="BtCscy_Click" Width="105"/>
+        <Button x:Name="BtExpy" Content="Exp" HorizontalAlignment="Left" Margin="643,492,0,0" VerticalAlignment="Top" FontSize="36" Click="BtExpy_Click" Width="85"/>
+        <Button x:Name="BtLny" Content="Ln" HorizontalAlignment="Left" Margin="737,492,0,0" VerticalAlignment="Top" FontSize="36" Click="BtLny_Click" Width="110"/>
+        <Button x:Name="BtLog10y" Content="Log10" HorizontalAlignment="Left" Margin="856,492,0,0" VerticalAlignment="Top" FontSize="36" Click="BtLog10y_Click" Width="105"/>
+        <Button x:Name="BtAbsy" Content="Abs" HorizontalAlignment="Left" Margin="643,552,0,0" VerticalAlignment="Top" FontSize="36" Click="BtAbsy_Click" Width="85"/>
+        <Button x:Name="BtRoundy" Content="Round" HorizontalAlignment="Left" Margin="736,554,0,0" VerticalAlignment="Top" FontSize="36" Click="BtRoundy_Click" Width="110"/>
+        <Button x:Name="BtSigny" Content="Sign" HorizontalAlignment="Left" Margin="856,554,0,0" VerticalAlignment="Top" FontSize="36" Click="BtSigny_Click" Width="105"/>
+        <Button x:Name="BtSuma" Content="+" HorizontalAlignment="Left" Margin="352,30,0,0" VerticalAlignment="Top" FontSize="36" Click="BtSuma_Click" Width="85"/>
+        <Button x:Name="BtResta" Content="-" HorizontalAlignment="Left" Margin="442,30,0,0" VerticalAlignment="Top" FontSize="36" Click="BtResta_Click" Width="85"/>
+        <Button x:Name="BtMulti" Content="*" HorizontalAlignment="Left" Margin="532,30,0,0" VerticalAlignment="Top" FontSize="36" Click="BtMulti_Click" Width="85"/>
+        <Button x:Name="BtDivi" Content="/" HorizontalAlignment="Left" Margin="622,30,0,0" VerticalAlignment="Top" FontSize="36" Click="BtDivi_Click" Width="85"/>
+        <Button x:Name="BtPotxy" Content="x^y" HorizontalAlignment="Left" Margin="713,30,0,0" VerticalAlignment="Top" FontSize="36" Click="BtPotxy_Click" Width="84"/>
+        <Button x:Name="BtPotyx" Content="y^x" HorizontalAlignment="Left" Margin="805,30,0,0" VerticalAlignment="Top" FontSize="36" Click="BtPotyx_Click" Width="85"/>
+        <Button x:Name="BtFactx" Content="x!" HorizontalAlignment="Left" Margin="352,91,0,0" VerticalAlignment="Top" FontSize="36" Click="BtFactx_Click" Width="85"/>
+        <Button x:Name="BtFacty" Content="y!" HorizontalAlignment="Left" Margin="442,91,0,0" VerticalAlignment="Top" FontSize="36" Click="BtFacty_Click" Width="85"/>
+        <Button x:Name="BtSqrtx" Content="sqrt(x)" HorizontalAlignment="Left" Margin="532,91,0,0" VerticalAlignment="Top" FontSize="24" Click="BtSqrtx_Click" Width="85" Height="52"/>
+        <Button x:Name="BtSqrty" Content="sqrt(y)" HorizontalAlignment="Left" Margin="622,91,0,0" VerticalAlignment="Top" FontSize="24" Click="BtSqrty_Click" Width="85" Height="52"/>
+        <Button x:Name="BtPotx2" Content="x^2" HorizontalAlignment="Left" Margin="713,91,0,0" VerticalAlignment="Top" FontSize="36" Click="BtPotx2_Click" Width="84"/>
+        <Button x:Name="BtPoty2" Content="y^2" HorizontalAlignment="Left" Margin="805,91,0,0" VerticalAlignment="Top" FontSize="36" Click="BtPoty2_Click" Width="85"/>
+        <Button x:Name="Bt_Borrar" Content="Borrar resultados" HorizontalAlignment="Left" Margin="1040,625,0,0" VerticalAlignment="Top" FontSize="24" Click="Bt_Borrar_Click" Width="208"/>
+        <Label Content="f(x)" HorizontalAlignment="Left" Margin="16,303,0,0" VerticalAlignment="Top" Height="65" Width="53" FontSize="24"/>
+        <Label Content="f(x,y)" HorizontalAlignment="Left" Margin="10,428,0,0" VerticalAlignment="Top" Height="66" Width="98" FontSize="36"/>
+        <TextBox x:Name="Tbfx" HorizontalAlignment="Left" Margin="114,316,0,0" TextWrapping="Wrap" Text="x" VerticalAlignment="Top" Width="136" Height="40" FontSize="24"/>
+        <TextBox x:Name="Tbfxy" HorizontalAlignment="Left" Margin="113,440,0,0" TextWrapping="Wrap" Text="x*y" VerticalAlignment="Top" Width="137" Height="40" FontSize="24"/>
+        <Button x:Name="BtFx" Content="f(x)" HorizontalAlignment="Left" Margin="484,150,0,0" VerticalAlignment="Top" FontSize="36" Click="BtFx_Click" Width="84"/>
+        <Button x:Name="BtFxy" Content="f(x,y)" HorizontalAlignment="Left" Margin="671,150,0,0" VerticalAlignment="Top" FontSize="36" Click="BtFxy_Click" Width="84"/>
+        <Label Content="f(y)" HorizontalAlignment="Left" Margin="16,362,0,0" VerticalAlignment="Top" Height="64" Width="53" FontSize="24"/>
+        <TextBox x:Name="Tbfy" HorizontalAlignment="Left" Margin="114,376,0,0" TextWrapping="Wrap" Text="y" VerticalAlignment="Top" Width="136" Height="40" FontSize="24"/>
+        <Button x:Name="BtFy" Content="f(y)" HorizontalAlignment="Left" Margin="578,150,0,0" VerticalAlignment="Top" FontSize="36" Click="BtFy_Click" Width="84"/>
+    </Grid>
+</Page>

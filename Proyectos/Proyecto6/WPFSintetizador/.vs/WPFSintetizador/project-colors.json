@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e1daffc9-c085-4103-be8f-6bb8cd3a5c2b": {
+      "ProjectGuid": "e1daffc9-c085-4103-be8f-6bb8cd3a5c2b",
+      "DisplayName": "WPFSintetizador",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
